@@ -1,2 +1,0 @@
-C:\Users\getav\Desktop\C & C++\Advance C++\15-Days-of-Cpp\Map\Map1\Debug\Map1.exe
-C:\Users\getav\Desktop\C & C++\Advance C++\15-Days-of-Cpp\Map\Map1\Debug\Map1.pdb
