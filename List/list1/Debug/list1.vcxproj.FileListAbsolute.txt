@@ -1,0 +1,2 @@
+C:\Users\getav\Desktop\C & C++\Advance C++\15-Days-of-Cpp\List\list1\Debug\list1.exe
+C:\Users\getav\Desktop\C & C++\Advance C++\15-Days-of-Cpp\List\list1\Debug\list1.pdb
